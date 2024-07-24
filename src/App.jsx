@@ -1,5 +1,8 @@
+import React from "react";
+import Topbar from "./components/topbar/Topbar";
+
 function App() {
-  return <div className="app">hello</div>;
+  return <Topbar />;
 }
 
 export default App;
